@@ -1,0 +1,35 @@
+SALIDA: Descuento
+
+Algoritmo: 	
+
+
+1.- Leer precio
+2.- Si el precio es >100 
+ 2.1 OPERACION: Precio(.10) = Precio - Resultado
+3.- Si el precio es <100
+ 3.1 OPERACION:Precio(.2)= Resultado - Precio
+4.-  Precio con descuento
+
+2 PROBLEMA: 
+Un algoritmo que lea dos numero y calcule su suma resta y división y multiplicación
+
+1.- Leer numero1, numero2
+2.- OPERACION suma: Numero1 + Numero2 
+ 2.1.- Resultado de la suma
+3.- OPERACION Resta: Numero1 + Numero2
+ 3.1.- Resultado de la resta
+4.- Operacion division:  Numero1 / Numero2
+ 4.1.- Resultado de la división 
+5.-  Operacion multiplicación: Numero1 * Numero2
+ 5.1 Resultado de la multiplicacion
+
+
+3 PROBLEMA
+Leer tres numeros que van a denotar una fecha de día mes y año y verificar si es una fecha valida
+
+1 Leer numero1, numero2, numero3 
+2 Si numero1 va de 1 , 2, …. 31 tal que numero1 es entero y no es igual a 0  y -
+ 2.1.- Numero1 = Dia
+3 Si numero2 va de 1, 2 ….. 12 tal que numero2  es entero y no es igual a 0 y -
+  3.1 Numero2 es mes
+4.- Si numero3 va de 1900,19001 ….. 2019 tal que numero3 es entero y no es = 0 y -
